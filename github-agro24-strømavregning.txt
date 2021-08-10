@@ -1,0 +1,15 @@
+Eksempelet nedenfor gjelder R1-1. Det blir tilsvarende for andre kunder, men ulike kildedata (avtaledetaljer, periode, avlesninger).
+
+På maskinen dahlto-d2.northeurope.cloudapp.azure.com:  Vindustast+S, "Region", sørg for at region=Norway bokmål.
+Agro24, Faktura, Rapport, Varestatistikk, Kunde, Nr, <angi kundenr.>, Periode, <angi periode>, Vis
+Trykk på disketten, Excel, Eksporter, Data grouping: All in one page, fjern hake foran "Open after export", trykk OK
+Lagre som C:\Users\dahlto\OneDrive - Bane NOR\Agro6-2021\Varestatistikk.xls
+Åpne Varestatistikk.xls i Excel, lagre den som xlsx.
+Gå så til din egen arbeidsstasjon. Åpne 
+    C:\Users\dahlto\OneDrive\Gård\Utleie\Rodsveien 1\1. etasje\Stromavregning_R1-1-aug-21.xlsx og 
+    C:\Users\dahlto\OneDrive - Bane NOR\Agro6-2021\Varestatistikk.xlsx
+Fra sistnevnte fil, kopier regnearket til førstnevnte og kall det for "Varestatistikk".
+Marker alle celler, velg skriftfarge = Automatisk. Innbetalt beløp ligger i celle M5.
+
+Agro24, Regnskap, Rapport, Kontospesifikasjon, Start år: 2020, konti: 6201 og 6202, Avdeling: 20, Vis
+Gjør det samme som ovenfor, men bruk filnavnet "Kontospesifikasjon.."
